@@ -1,1 +1,0 @@
-# ncyapa.github.io
