@@ -67,9 +67,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I'm a frontend web developer skilled in HTML, CSS, SCSS, Tailwind, JavaScript, React, Next.js, 
+          I&apos;m a frontend web developer skilled in HTML, CSS, SCSS, Tailwind, JavaScript, React, Next.js, 
           and Vite. I create attractive and user-friendly websites. I enjoy learning and always look to 
-          improve my skills. I love working with teams to build awesome digital solutions. Let's 
+          improve my skills. I love working with teams to build awesome digital solutions. Let&apos;s 
           collaborate on your web projects!
           </p>
           <div className="flex flex-row justify-start mt-8">
